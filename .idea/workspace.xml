@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2576ef8d-3eb5-42dd-9f2b-f818539694e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2576ef8d-3eb5-42dd-9f2b-f818539694e5" name="Default Changelist" comment="&quot;first commit&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="aws" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\andre\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2576ef8d-3eb5-42dd-9f2b-f818539694e5" name="Default Changelist" comment="" />
@@ -45,7 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602950012173</updated>
       <workItem from="1602950013980" duration="4037000" />
-      <workItem from="1602976093857" duration="314000" />
+      <workItem from="1602976093857" duration="2889000" />
+      <workItem from="1603026904933" duration="3141000" />
     </task>
     <servers />
   </component>
@@ -62,19 +67,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="9" key="SettingsEditor" timestamp="1602976254083">
+    <state x="461" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602976636890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1602976254083" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602976285632">
+    <state x="461" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1602976636890" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1603029792739">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1602976285632" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1603029792739" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602976604621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1602976604621" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602976262285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1920.-121.1920.1040@0.0.1366.728" timestamp="1602976262285" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

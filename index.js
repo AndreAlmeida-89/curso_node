@@ -14,5 +14,9 @@ app.get('/', ((req, res) => {
 }))
 
 app.get('/ola/:nome/:empresa', ((req, res) => {
-    res.send(`<h1>Olá ${req.params.nome}</h1>`)
+    res.send(`<h1>Olá ${req.params.nome} da empresa ${req.params.empresa}</h1>`)
 }))
+
+app.post('/hello', (req, res) => {
+
+})
