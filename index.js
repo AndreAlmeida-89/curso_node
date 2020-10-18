@@ -1,5 +1,9 @@
 const express = require('express')
+const bodyParser = require('body-parser')
 const app = express()
+
+app.use(bodyParser.json())
+app.use(express.static(__dirname + '/public'))
 
 app.listen(4000, err => {
     if (err) {
@@ -18,5 +22,7 @@ app.get('/ola/:nome/:empresa', ((req, res) => {
 }))
 
 app.post('/hello', (req, res) => {
-
+    let body = req.body
+    body.message = `Hello ${body.name}`
+    res.json(body)
 })
