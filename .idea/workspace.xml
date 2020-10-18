@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2576ef8d-3eb5-42dd-9f2b-f818539694e5" name="Default Changelist" comment="add index.html">
+    <list default="true" id="2576ef8d-3eb5-42dd-9f2b-f818539694e5" name="Default Changelist" comment="add aws-sdk">
+      <change afterPath="$PROJECT_DIR$/table-ops.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -56,7 +58,7 @@
       <updated>1602950012173</updated>
       <workItem from="1602950013980" duration="4037000" />
       <workItem from="1602976093857" duration="2889000" />
-      <workItem from="1603026904933" duration="7462000" />
+      <workItem from="1603026904933" duration="10538000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add body-parser&quot;">
       <created>1603036344686</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603038657581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add aws-sdk">
+      <created>1603050377694</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603050377694</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;add body-parser&quot;" />
     <MESSAGE value="add index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add index.html" />
+    <MESSAGE value="add aws-sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="add aws-sdk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602976636890">
